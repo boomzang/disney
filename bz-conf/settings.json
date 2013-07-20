@@ -1,7 +1,7 @@
 {
   "author":      "Chris Jacobs",
   "description": "Demo for Disney.",
-  "icon":        "bz-conf/icon.png",
+  "icon":        "bz-conf/icon.jpg",
   "name":        "Disney Demo",
   "url":         "disney/",
   "repo_url":    "boomzang/disney"
