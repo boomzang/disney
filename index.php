@@ -125,8 +125,8 @@
 					cssSelectorAncestor: "#jp_container_2"
 				}, [
 					{
-						title:"Hayaku",
-						m4v: "movies/hayaku.mp4",
+						title:"Limitless",
+						m4v: "http://bz_media/limitless.mp4",
 						poster:"images/movies/hayaku.jpg"
 					},
 					{
