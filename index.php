@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         
-        <title>Epcot Connection</title>
+        <title>Disney Demo</title>
         
         
         
