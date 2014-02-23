@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         
-        <title>Disney Demo</title>
+        <title>Disney</title>
         
         
         
