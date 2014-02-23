@@ -1,9 +1,9 @@
 {
   "author":      "Chris Jacobs",
-  "description": "Demo for Disney.",
-  "icon":        "bz-conf/icon.jpg",
+  "description": "Disney demo.",
+  "icon":        "slash-conf/icon.jpg",
   "name":        "Disney Demo",
   "url":         "disney/",
-  "repo_url":    "boomzang/disney"
+  "repo_url":    "slashnet/disney-demo"
 }
 
