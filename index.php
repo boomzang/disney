@@ -125,18 +125,18 @@
 					cssSelectorAncestor: "#jp_container_2"
 				}, [
 					{
-						title:"Limitless",
-						m4v: "http://slash_media/limitless.mp4",
+						title:"Hayaku",
+						m4v: "http://slash_media/disney/hayaku.mp4",
 						poster:"images/movies/hayaku.jpg"
 					},
 					{
 						title:"KI: Michael Levin",
-						m4v: "http://slash_media/ki.mp4",
+						m4v: "http://slash_media/disney/ki.mp4",
 						poster: "images/movies/ki.jpg"
 					},
 					{
 						title:"Tytan Demo Reel",
-						m4v: "http://slash_media/tytanreel.mp4",
+						m4v: "http://slash_media/disney/tytanreel.mp4",
 						poster: "images/movies/tytanreel.jpg"
 					}
 				], {
