@@ -126,17 +126,17 @@
 				}, [
 					{
 						title:"Limitless",
-						m4v: "http://bz_media/limitless.mp4",
+						m4v: "http://slash_media/limitless.mp4",
 						poster:"images/movies/hayaku.jpg"
 					},
 					{
 						title:"KI: Michael Levin",
-						m4v: "movies/ki.mp4",
+						m4v: "http://slash_media/ki.mp4",
 						poster: "images/movies/ki.jpg"
 					},
 					{
 						title:"Tytan Demo Reel",
-						m4v: "movies/tytanreel.mp4",
+						m4v: "http://slash_media/tytanreel.mp4",
 						poster: "images/movies/tytanreel.jpg"
 					}
 				], {
