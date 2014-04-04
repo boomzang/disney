@@ -1,7 +1,7 @@
 {
   "author":      "Chris Jacobs",
   "description": "Disney demo.",
-  "icon":        "slash-conf/icon.jpg",
+  "icon":        "icon.jpg",
   "name":        "Disney Demo",
   "url":         "disney/",
   "repo_url":    "slashnet/disney-demo"
